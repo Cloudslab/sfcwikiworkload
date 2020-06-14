@@ -1,8 +1,8 @@
 This is a tutorial for generate 3-tired web applications for SFC experiments used in CloudSimSDN https://github.com/Cloudslab/cloudsimsdn.
 
 Author:
-Jay Son (Jungmin Son)
 TianZhang He
+Jay Son (Jungmin Son)
 at CLOUDS Lab, University of Melbourne.
 
 1. wiki_workload_generator_complex_SFC.R
